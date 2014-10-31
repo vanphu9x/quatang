@@ -1,0 +1,42 @@
+#pop{
+	background : url(../images/index/pop.png) no-repeat;
+	width: 828px;
+	height:367px;
+	position: relative;
+}
+.choingay{
+	position: absolute;
+	left : 138px;
+	top : 205px;
+	width: 170px;
+	height : 43px;
+	background: url(../images/index/buttonhl.png) no-repeat;
+	font-size: 0;
+}
+.chonmaychu{
+	position: absolute;
+	left: 329px;
+	top : 205px;
+	width: 170px;
+	height : 43px;
+	background: url(../images/index/buttonhl.png) no-repeat -191px 0;
+	font-size: 0;	
+}
+.nhapgiftcode{
+	position: absolute;
+	left: 522px;
+	top : 205px;
+	width: 170px;
+	height : 43px;
+	background: url(../images/index/buttonhl.png) no-repeat -383px 0;
+	font-size: 0;
+}
+.choingay:hover{
+	background: url(../images/index/buttonhvhl.png) no-repeat;
+}
+.chonmaychu:hover{
+	background: url(../images/index/buttonhvhl.png) no-repeat -191px 0;
+}
+.nhapgiftcode:hover{
+	background: url(../images/index/buttonhvhl.png) no-repeat -383px 0;
+}
